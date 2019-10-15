@@ -1,0 +1,21 @@
+name: BLOC
+description: A example of Google's BLOC pattern in Flutter
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.0 <3.0.0"
+
+dependencies:
+  cupertino_icons: ^0.1.2
+  flutter:
+    sdk: flutter
+  rxdart: 0.22.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  graphql_flutter: ^2.0.0
+
+flutter:
+  uses-material-design: true
