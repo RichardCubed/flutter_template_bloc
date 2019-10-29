@@ -1,7 +1,7 @@
 # flutter-template-bloc
 
-A (fairly) simple Flutter template that implements the BLOC pattern, Google's recommended approach
-to state  management in Flutter apps.  For a little extra sauce the BLOC class uses RxDart streams
+A (fairly) simple Flutter template that implements the BLoC pattern, Google's recommended approach
+to state  management in Flutter apps.  For a little extra sauce the BLoC class uses RxDart streams
 to pass data to the UI widgets.
 
 I've been building and testing this on iOS but the Android project should run without issues.
